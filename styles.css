@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1252982760/photo/defocused-lights-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=-2z2swXDjVV5BZiG5O4GPxvjBbjx0zpRTU31h9qzj8E=);
+    background-size: cover;
+}
+div {
+    max-width: 600px;
+    margin: -10px auto -20px auto;
+    background-color: #535657;
+    color: #C4D6B0;
+    padding-left: 40px;
+}
+h1, p{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    margin: 0;
+}
+p{
+    font-size: 18px;
+}
+
+label{
+    font-size: 20px;
+    display: block;
+}
+fieldset {
+    border: none;
+    margin-bottom: 20px;
+}
+.details{
+    display: block;
+    height: 35px;
+    width: 80%;
+    margin: 5px 0;
+    border: none;
+    border-radius: 7px;
+}
+select {
+    display: block;
+    margin: 10px 0;
+    height: 38px;
+    border-radius: 7px;
+    width: 80%;
+    border: none;
+}
+legend{
+    font-size: 20px;
+}
+textarea{
+    width: 80%;
+    border-radius: 7px;
+}
+#submit{
+    border: 0;
+    height: 30px;
+    width: 450px;
+    margin: 0;
+    padding: 0;
+    color: #535657;
+    background-color: #C4D6B0;
+}
